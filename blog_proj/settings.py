@@ -46,7 +46,9 @@ THIRD_PARTY_APPS = [
     'rest_framework_simplejwt',
 ]
 
-LOCAL_APPS = []
+LOCAL_APPS = [
+    'blog',
+]
 
 INSTALLED_APPS = DEFAULT_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 
