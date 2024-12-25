@@ -47,6 +47,7 @@ THIRD_PARTY_APPS = [
     'drf_spectacular',
     'drf_spectacular_sidecar',
     'rest_framework_simplejwt',
+    'taggit',
 ]
 
 LOCAL_APPS = [
